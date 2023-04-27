@@ -111,5 +111,15 @@ Train Accuracy - 9 months MAE
 
 
 
+## Thesis
 
+There are many potential research directions related to bone age assessment beyond prediction or estimation using machine learning algorithms. Here are a few examples:
+
+* Analysis of inter-observer variability: One area of research could focus on analyzing the variability in bone age assessments made by different radiologists or clinicians. This could involve studying the factors that contribute to variability, such as differences in training or experience, or the use of different atlases or reference standards. Understanding the sources of variability could help improve the accuracy and consistency of bone age assessments.
+
+* Development of new atlases or reference standards: Another area of research could involve the development of new reference standards or atlases for bone age assessment. Existing atlases are often based on limited populations and may not accurately represent the diversity of pediatric patients. Developing new reference standards could improve the accuracy and reliability of bone age assessments, particularly for underrepresented populations.
+
+* Validation of bone age assessment in clinical outcomes: Bone age assessment is often used as a proxy for assessing growth and development in pediatric patients. However, there is limited evidence linking bone age assessments to clinical outcomes such as height, weight, or pubertal development. Research could focus on establishing these links and determining the clinical utility of bone age assessment in predicting long-term outcomes.
+
+* Assessment of radiation exposure: X-ray imaging is commonly used for bone age assessment, but it also exposes pediatric patients to ionizing radiation. Research could investigate the potential risks associated with radiation exposure from bone age assessments and explore alternative imaging techniques or protocols that minimize radiation exposure.
 
