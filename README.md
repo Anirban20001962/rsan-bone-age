@@ -113,7 +113,7 @@ Train Accuracy - 9 months MAE
 
 ## Thesis
 
-There are many potential research directions related to bone age assessment beyond prediction or estimation using machine learning algorithms. Here are a few examples:
+There are many potential research directions related to bone age assessment beyond prediction or estimation using machine learning algorithms.:
 
 * Analysis of inter-observer variability: One area of research could focus on analyzing the variability in bone age assessments made by different radiologists or clinicians. This could involve studying the factors that contribute to variability, such as differences in training or experience, or the use of different atlases or reference standards. Understanding the sources of variability could help improve the accuracy and consistency of bone age assessments.
 
