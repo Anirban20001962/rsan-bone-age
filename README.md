@@ -111,7 +111,7 @@ Train Accuracy - 9 months MAE
 
 
 
-## Thesis
+## Post Studies
 
 There are many potential research directions related to bone age assessment beyond prediction or estimation using machine learning algorithms.:
 
